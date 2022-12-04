@@ -7,7 +7,9 @@ section {
   padding: 2rem;
   border-radius: 12px;
 }
-
+section > p {
+  color: white;
+}
 button {
   font: inherit;
   cursor: pointer;
